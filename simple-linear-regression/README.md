@@ -1,6 +1,6 @@
 # Simple_linear_regression
 
-![Simple linear regression](simple_linear_regression.png)
+![Simple linear regression](simple-linear-regression.png)
 
 Using simple linear regression for prediction of salaries.
 
